@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Hank Quinlan, Horrible Cop, Launches Site"
+title: "Blogger based on computer science Site"
 date: 2018-09-21
 ---
 
