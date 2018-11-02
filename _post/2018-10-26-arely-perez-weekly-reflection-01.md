@@ -23,4 +23,4 @@ I've managed to learn a lot in these past few weeks; I created my own website an
 
 
 Example 2: 
-;star:number string string -->
+;star:number string string --> image
